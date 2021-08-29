@@ -198,15 +198,7 @@ _這是斜體_
   |:-:|-:|:-|-|
   |陪念書|04.29|女|人類|
   |阿柴|12.24|母|柴犬|
-# <h4 id="3.2">粗體</h4>
 
-  ```
-  [Input]:
-
-
-  [Output]:
-  ```
-  >
 ## 4.參考資料
 
 * ##### [Markdown Shortcuts / Markdown Preview Github Styling](https://ithelp.ithome.com.tw/articles/10190508)
