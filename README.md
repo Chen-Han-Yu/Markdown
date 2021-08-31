@@ -133,13 +133,13 @@ _這是斜體_
   [Input]:
   [柴犬介紹](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC)
   [柴犬圖](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC#/media/File:Shiba_inu_taiki.jpg)
-  ![柴犬圖](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC#/media/File:Shiba_inu_taiki.jpg)
+  ![柴犬圖](ShinaInu.jpg)
 
   [Output]:
   ```
   >[柴犬介紹](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC)
   [柴犬圖](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC#/media/File:Shiba_inu_taiki.jpg)
-  ![柴犬圖](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC#/media/File:Shiba_inu_taiki.jpg)
+  ![柴犬圖](ShibaInu.jpg)
 
 # <h4 id="3.9">3.9.清單</h4>
   ```
