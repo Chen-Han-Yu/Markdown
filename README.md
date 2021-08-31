@@ -41,7 +41,7 @@
 
 # <h4 id="3.1">3.1.標題</h4>
   >- 有六種HTML的標籤  `<h1>`~`<h6>`  
-  >- Setext與Atx型式，下述為Atx
+  >- SetText與Atx型式，下述為Atx
   ```
   [Input:]
   # 這是h1
