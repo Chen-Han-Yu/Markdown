@@ -130,6 +130,7 @@ _這是斜體_
   >- 圖片[連結圖片](位置)  
      [連結圖片]前面加驚嘆號回直接出現相關內容
   >- 用html調整照片大小,可以輸入width或height其中一個會自動調整，範例輸入width而已
+  >- 在檔名要特別注意，推送到github上大小寫jpg和JPG有差
   ```
   [Input]:
   [柴犬介紹](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC)
