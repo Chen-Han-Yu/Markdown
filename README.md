@@ -141,7 +141,7 @@ _這是斜體_
   ```
   >[柴犬介紹](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC)
   [柴犬圖](https://zh.wikipedia.org/wiki/%E6%9F%B4%E7%8A%AC#/media/File:Shiba_inu_taiki.jpg)
-  ![柴犬圖](ShibaInu2.jpg)
+  ![柴犬圖](ShibaInu2.JPG)
   <img src="ShibaInu.jpg" alt="drawing" width="200px"/>
 
 # <h4 id="3.9">3.9.清單</h4>
