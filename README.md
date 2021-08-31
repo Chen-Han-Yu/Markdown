@@ -157,7 +157,7 @@ _這是斜體_
 # <h4 id="3.10">3.10.選項圖示</h4>
   > 
 <br>目前使用的VSCode顯示不出來
-<br>該要有的空白要有
+<br>該要有的空白要有，沒空白上傳Github顯示不出來
   ```
   [Input]:
   - [ ] 沒完成
@@ -217,7 +217,5 @@ _這是斜體_
   >- [內轉目錄，目前查到github說內轉不試用此方法???](https://www.cnblogs.com/JohnTsai/p/4027229.html)
   >- [在文件中使用連結](https://docs.microsoft.com/zh-tw/contribute/how-to-write-links)
   >- [Visul Studio Code 移除行尾空白](https://tech.goescat.site/2019/10/visual-studio-code.html)  
-  
-  仍需確認
-  >- [待:選項圖示](https://tiida54.github.io/2018/01/03/3%E5%88%86%E9%90%98%E5%AD%B8%E6%9C%83Markdown%E5%B8%B8%E7%94%A8%E8%AA%9E%E6%B3%95/)
-  >- [待:GitHub圖示](https://sam.webspace.tw/2020/01/10/Markdown%20%E5%B8%B8%E7%94%A8%E8%AA%9E%E6%B3%95%E6%95%B4%E7%90%86/)
+  >- [選項圖示](https://tiida54.github.io/2018/01/03/3%E5%88%86%E9%90%98%E5%AD%B8%E6%9C%83Markdown%E5%B8%B8%E7%94%A8%E8%AA%9E%E6%B3%95/)
+  >- [GitHub圖示](https://sam.webspace.tw/2020/01/10/Markdown%20%E5%B8%B8%E7%94%A8%E8%AA%9E%E6%B3%95%E6%95%B4%E7%90%86/)
