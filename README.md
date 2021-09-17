@@ -35,7 +35,7 @@
     - [3.10.選項圖示](#3.10)
     - [3.11.分隔線](#3.11)
     - [3.12.表格](#3.12)
- 
+ - [4.參考資料](#4)
 
 # <h2 id="3">3.實作與筆記：Markdwon篇</h2>
 
@@ -206,7 +206,7 @@ _這是斜體_
   |陪念書|04.29|女|人類|
   |阿柴|12.24|母|柴犬|
 
-## 4.參考資料
+# <h2 id="4">4.參考資料</h2>
 
 * ##### [Markdown Shortcuts / Markdown Preview Github Styling](https://ithelp.ithome.com.tw/articles/10190508)
   >- 預覽設定是Ctrl + K V那個  
