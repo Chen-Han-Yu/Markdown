@@ -1,6 +1,6 @@
 <!-- 基本介紹 -->
 
-# 轉職 Markdowng 生活筆記
+# 轉職 Markdown 生活筆記
 
 > OpenDate:2021-08-29  
 > IDE:Visual Studio Code  
