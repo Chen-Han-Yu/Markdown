@@ -15,6 +15,9 @@
 - [1.目錄](#1)
 - [2.自身轉職背景](#2)
 - [3.2024 現行瓶頸](#3)
+- [4.DP-203 筆記](#4)
+  - [4.1.DP-203 考試占比](#4.1)
+  - [4.2.Azure Fundamentals](#4.2)
 
 # <h2 id="2">2.自身轉職背景</h2>
 
@@ -98,3 +101,36 @@
 > 公司傾向地端服務轉向雲端服務，現行有三大廠，公司三個都有用，但組上主力是 Azure 和 GCP 部分服務，GCP 我評估可能未來也會一同加入 Study 的行列。
 
 > 在使用時付費，我工作又要賺錢的情況下，需要配合政策與資源，現況與職位的人力調度，還是成長緩慢造成瓶頸，我應該會主動為了在數據工程/金庫成長上繼續走花路跟主管討論看看吧。
+
+# <h2 id="4">4.DP-203 筆記</h2>
+
+# <h4 id="4.1">4.1 DP-203 考試占比</h4>
+
+1. 15%~20% Design and implemnt data storage
+2. 40%~45% Develop data processing
+3. 30%~35% Secure, monitor, and optimize data storage and data processing
+
+> 由於跳過前面基礎的考照，但有回去惡補，先了解雲端基礎架構，大方向 keyword 如下
+
+# <h4 id="4.2">4.2 Azure Fundamentals</h4>
+
+1. Cloud Computing 雲端基本概念
+2. IaaS/PaaS/SaaS
+
+   1. IaaS(Infrastrucutre as a Service)
+   2. PaaS(Platform as a Service)
+   3. SaaS(Software as a Service)
+
+|                      SaaS                       |                      PaaS                       |                      Iaas                       |                           Service                           |
+| :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :---------------------------------------------------------: |
+| <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> |            1.Data Center pyhsical plant/building            |
+| <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> |               2.Networking firewalls/Security               |
+| <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> |                    3.Servers and storage                    |
+| <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> |                                                 |                     4.Operating systems                     |
+| <span style="background-color: black;">Y</span> | <span style="background-color: black;">Y</span> |                                                 | 5.Devlopemnt tools, database management, business analytics |
+| <span style="background-color: black;">Y</span> |                                                 |                                                 |                  6.Hosted applications/app                  |
+
+3. 部屬方式
+   1. Public 公有雲
+   2. Private 私有雲
+   3. Hybrid 混合雲
